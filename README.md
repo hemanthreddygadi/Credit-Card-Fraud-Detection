@@ -35,6 +35,14 @@ To set up the project locally, ensure you have Python installed. Then, clone thi
    ```bash
    pip install notebook
 
+## Usage
+Load the dataset using Pandas.
+Preprocess the data.
+Handle missing values.
+Scale the features.
+Split the dataset into training and testing sets.
+Train the logistic regression model on the training set.
+Evaluate the model's performance on the test set.
 
 ```bash
 git clone https://github.com/hemanthreddygadi/Credit-Card-Fraud-Detection
