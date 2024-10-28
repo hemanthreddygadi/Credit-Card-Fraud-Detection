@@ -22,7 +22,7 @@ This project focuses on detecting fraudulent transactions in credit card data us
 - Seaborn
 
 ## Dataset
-The dataset used for this project is sourced from [Kaggle](https://www.kaggle.com/dalpozz/creditcard-fraud) and contains transactions made by credit cards in September 2013 by European cardholders. It includes:
+The dataset used for this project is sourced from [Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) and contains transactions made by credit cards in September 2013 by European cardholders. It includes:
 - 284,807 transactions labeled as either legitimate (`Class = 0`) or fraudulent (`Class = 1`).
 - Features generated through PCA (Principal Component Analysis) to protect sensitive information.
 
