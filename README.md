@@ -102,6 +102,31 @@ Visualizing feature importance (e.g., with a bar chart) can provide a clear over
 
 These metrics collectively provide a comprehensive understanding of the model's performance and guide further improvements.
 
+## Results
+The model's performance metrics are displayed in the output, including accuracy on training and test data, confusion matrix visualization, and feature importance analysis.
+Accuracy on Test data :
+![image](https://github.com/user-attachments/assets/294ae6b1-8cb5-43ad-80c0-d21f02df5ba7)
+
+Accuracy on Training data :
+![image](https://github.com/user-attachments/assets/f77f5a87-b278-401f-a4a8-48d61457d943)
+
+Confusion Matrix  :
+![image](https://github.com/user-attachments/assets/31889d40-cee6-4746-9f22-1127e14f0eec)
+
+Feature Importance :
+![image](https://github.com/user-attachments/assets/9980dbcd-cf71-417d-a186-df56ebad8e23)
+
+Learning Curve :
+![image](https://github.com/user-attachments/assets/264eb793-d7b3-47ac-8e90-fbf043ffb981)
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+## Acknowledgments
+
+- Kaggle for providing the dataset.
+- Various online resources and documentation for guidance on machine learning and data analysis techniques.
+
 ```bash
 git clone https://github.com/hemanthreddygadi/Credit-Card-Fraud-Detection
 cd credit-card-fraud-detection
