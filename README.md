@@ -44,7 +44,6 @@ Split the dataset into training and testing sets.
 Train the logistic regression model on the training set.
 Evaluate the model's performance on the test set.
 
-## Modal Evalaution
 ## Model Evaluation
 
 ### 1. Accuracy
